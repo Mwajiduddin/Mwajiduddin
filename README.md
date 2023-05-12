@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
+  - [How to create a virtual machine in Microsoft Azure](https://github.com/Mwajiduddin/How-to-create-a-virtual-machine-in-Microsoft-Azure)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Mwajiduddin/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mwajiduddin/azure-network-protocols)
 
