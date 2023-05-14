@@ -4,8 +4,8 @@
 
 - <b>Microsoft Azure</b>
   - [How to create a virtual machine in Microsoft Azure](https://github.com/Mwajiduddin/How-to-create-a-virtual-machine-in-Microsoft-Azure)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mwajiduddin/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Mwajiduddin/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mwajiduddin/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Mwajiduddin/osticket-prereqs)
