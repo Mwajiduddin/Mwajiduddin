@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [How to create a virtual machine in Microsoft Azure](https://github.com/Mwajiduddin/How-to-create-a-virtual-machine-in-Microsoft-Azure)
   - [Observing network traffic between two virtual machines in Azure using Wireshark](https://github.com/Mwajiduddin/Observing-network-traffic-between-two-virtual-machines-in-Azure-using-Wireshark)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Mwajiduddin/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Mwajiduddin/Configuring-On-premises-Active-Directory-within-Azure-VMs)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Mwajiduddin/osticket-prereqs)
