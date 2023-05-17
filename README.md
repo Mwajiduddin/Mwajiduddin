@@ -6,7 +6,6 @@
   - [How to create a virtual machine in Microsoft Azure](https://github.com/Mwajiduddin/How-to-create-a-virtual-machine-in-Microsoft-Azure)
   - [Observing network traffic between two virtual machines in Azure using Wireshark](https://github.com/Mwajiduddin/Observing-network-traffic-between-two-virtual-machines-in-Azure-using-Wireshark)
   - [Joining a client to a domain controller virtual machine in Azure](https://github.com/Mwajiduddin/Joining-a-client-to-a-domain-controller-virtual-machine-in-Azure)
-  
      - [Configuring Network File Shares and Permissions](https://github.com/Mwajiduddin/Network-File-Shares-and-Permissions) 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
