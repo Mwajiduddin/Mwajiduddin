@@ -13,7 +13,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Mwajiduddin/osticket-post-installation)
   - [osTicket: Ticket Lifecycle](https://github.com/Mwajiduddin/osticket-ticket-lifecycle)
 
-<h2>🤳Connect with me:</h2>
+🤳Connect with me on LinkedIn: 
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
