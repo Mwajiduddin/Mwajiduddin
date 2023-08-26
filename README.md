@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mohammad, an <a href="https://linkedin.com/in/mohammadwajiduddin">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Home Lab Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [How to create a virtual machine in Microsoft Azure](https://github.com/Mwajiduddin/How-to-create-a-virtual-machine-in-Microsoft-Azure)
