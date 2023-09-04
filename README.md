@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
+- <b>Powershell Scripts</b>
+
 - <b>Microsoft Azure</b>
   - [How to create a virtual machine in Microsoft Azure](https://github.com/Mwajiduddin/How-to-create-a-virtual-machine-in-Microsoft-Azure)
   - [Observing network traffic between two virtual machines in Azure using Wireshark](https://github.com/Mwajiduddin/Observing-network-traffic-between-two-virtual-machines-in-Azure-using-Wireshark)
