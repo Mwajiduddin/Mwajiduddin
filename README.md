@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
-- <b>Powershell Prompt Scripts</b>
+- <b>SQL</b>
+
+- <b>Powershell Scripts</b>
 
 - <b>Microsoft Azure</b>
   - [How to create a virtual machine in Microsoft Azure](https://github.com/Mwajiduddin/How-to-create-a-virtual-machine-in-Microsoft-Azure)
