@@ -5,7 +5,9 @@
 - <b>SQL</b>
 
 - <b>Powershell Scripts</b>
-  -[Creating a deterministic constant algorithm](https://github.com/Mwajiduddin/Creating-a-deterministic-constant-algorithm-)
+  - [Creating a deterministic constant algorithm](https://github.com/Mwajiduddin/Creating-a-deterministic-constant-algorithm-)
+  - [Displaying a turn-based RPG prompt](https://github.com/Mwajiduddin/Displaying-a-turn-based-RPG-prompt)
+  - [Filtering a new server from groups of preexisting servers](https://github.com/Mwajiduddin/Filtering-a-new-server-from-groups-of-preexisting-servers)
   
 - <b>Microsoft Azure</b>
   - [How to create a virtual machine in Microsoft Azure](https://github.com/Mwajiduddin/How-to-create-a-virtual-machine-in-Microsoft-Azure)
