@@ -5,7 +5,8 @@
 - <b>SQL</b>
 
 - <b>Powershell Scripts</b>
-
+  -[Creating a deterministic constant algorithm](https://github.com/Mwajiduddin/Creating-a-deterministic-constant-algorithm-)
+  
 - <b>Microsoft Azure</b>
   - [How to create a virtual machine in Microsoft Azure](https://github.com/Mwajiduddin/How-to-create-a-virtual-machine-in-Microsoft-Azure)
   - [Observing network traffic between two virtual machines in Azure using Wireshark](https://github.com/Mwajiduddin/Observing-network-traffic-between-two-virtual-machines-in-Azure-using-Wireshark)
