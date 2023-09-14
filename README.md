@@ -3,7 +3,7 @@
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 - <b>SQL</b>
-  - [Real-world example of SQL data analysis](https://github.com/Mwajiduddin/Real-world-example-of-SQL-data-analysis/blob/main/README.md)
+  - [Real-world example of SQL data analysis](https://github.com/Mwajiduddin/Real-world-example-of-SQL-data-analysis)
 
 - <b>Powershell Scripts</b>
   - [Creating a deterministic constant algorithm](https://github.com/Mwajiduddin/Creating-a-deterministic-constant-algorithm-)
