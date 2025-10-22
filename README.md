@@ -13,7 +13,7 @@
 - <b>Microsoft Azure</b>
   - [How to create a virtual machine in Microsoft Azure](https://github.com/Mwajiduddin/How-to-create-a-virtual-machine-in-Microsoft-Azure)
   - [Observing network traffic between two virtual machines in Azure using Wireshark](https://github.com/Mwajiduddin/Observing-network-traffic-between-two-virtual-machines-in-Azure-using-Wireshark)
-  - [Adding a client to a domain controller virtual machine in Azure](https://github.com/Mwajiduddin/Adding-a-client-to-a-Windows-Server-domain-controller-virtual-machine-in-Azure)
+  - [Installing Active Directory in Windows Server VM and adding a client VM to domain controller](https://github.com/Mwajiduddin/Adding-a-client-to-a-Windows-Server-domain-controller-virtual-machine-in-Azure)
      - [Configuring network file shares and permissions](https://github.com/Mwajiduddin/Network-File-Shares-and-Permissions) 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
