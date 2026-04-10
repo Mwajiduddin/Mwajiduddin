@@ -14,7 +14,8 @@
   - [How to create a virtual machine in Microsoft Azure](https://github.com/Mwajiduddin/How-to-create-a-virtual-machine-in-Microsoft-Azure)
   - [Observing network traffic between two virtual machines in Azure using Wireshark](https://github.com/Mwajiduddin/Observing-network-traffic-between-two-virtual-machines-in-Azure-using-Wireshark)
   - [Installing Active Directory in Windows Server VM and adding a client VM to domain controller](https://github.com/Mwajiduddin/Adding-a-client-to-a-Windows-Server-domain-controller-virtual-machine-in-Azure)
-     - [Configuring network file shares and permissions](https://github.com/Mwajiduddin/Network-File-Shares-and-Permissions) 
+     - [Configuring network file shares and permissions](https://github.com/Mwajiduddin/Network-File-Shares-and-Permissions)
+       
 🤳Connect with me on LinkedIn: 
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
