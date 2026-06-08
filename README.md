@@ -4,10 +4,10 @@
 
 
 - <b>Splunk</b>
-    - [Analyzing PCAPs to find relevant information about possible indicators of compromise (IOCs) in Wireshark](https://github.com/Mwajiduddin/Analyzing-PCAPs-to-find-relevant-info-and-possible-IOCs-in-Wireshark-)
+    - [Analyzing PCAPs to find relevant information that  indicators of compromise (IOCs) in Wireshark](https://github.com/Mwajiduddin/Analyzing-PCAPs-to-find-relevant-info-and-possible-IOCs-in-Wireshark-)
 
 - <b>Wireshark</b>
-    - [Analyzing PCAPs to find relevant information about possible indicators of compromise (IOCs) in Wireshark](https://github.com/Mwajiduddin/Analyzing-PCAPs-to-find-relevant-info-and-possible-IOCs-in-Wireshark-)
+    - [Analyzing PCAPs to find relevant information that prove indicators of compromise (IOCs) in Wireshark](https://github.com/Mwajiduddin/Analyzing-PCAPs-to-find-relevant-info-and-possible-IOCs-in-Wireshark-)
   
 - <b>SQL</b>
   - [Real-world example of SQL data analysis](https://github.com/Mwajiduddin/Real-world-example-of-SQL-data-analysis)
