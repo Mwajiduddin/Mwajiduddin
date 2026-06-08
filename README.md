@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
+- <b>Wireshark</b>
+    - [Analyzing PCAPs to find relevant information about possible indicators of compromise (IOCs) in Wireshark](https://github.com/Mwajiduddin/Analyzing-PCAPs-to-find-relevant-info-and-possible-IOCs-in-Wireshark-)
+  
 - <b>SQL</b>
   - [Real-world example of SQL data analysis](https://github.com/Mwajiduddin/Real-world-example-of-SQL-data-analysis)
 
