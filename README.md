@@ -7,7 +7,7 @@
     - [Conducting queries within Splunk to identify evidence of indicators of compromise (IOCs)](https://github.com/Mwajiduddin/Conducting-queries-in-Splunk-to-identify-evidence-of-Indicators-of-Compromise-IOCs-.)
 
 - <b>Wireshark</b>
-    - [Analyzing PCAPs to find relevant data that prove indicators of compromise (IOCs)](https://github.com/Mwajiduddin/Analyzing-PCAPs-to-find-relevant-info-and-possible-IOCs-in-Wireshark-)
+    - [Analyzing pre-captured PCAPs to find relevant data that prove indicators of compromise (IOCs)](https://github.com/Mwajiduddin/Analyzing-PCAPs-to-find-relevant-info-and-possible-IOCs-in-Wireshark-)
   
 - <b>SQL</b>
   - [Real-world example of SQL data analysis](https://github.com/Mwajiduddin/Real-world-example-of-SQL-data-analysis)
