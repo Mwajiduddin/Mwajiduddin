@@ -4,7 +4,7 @@
 
 
 - <b>Splunk</b>
-    - [Analyzing PCAPs to find relevant information that  indicators of compromise (IOCs) in Wireshark](https://github.com/Mwajiduddin/Analyzing-PCAPs-to-find-relevant-info-and-possible-IOCs-in-Wireshark-)
+    - [Conducting queries within Splunk to identify evidence of indicators of compromise (IOCs)](https://github.com/Mwajiduddin/Conducting-queries-in-Splunk-to-identify-evidence-of-Indicators-of-Compromise-IOCs-.)
 
 - <b>Wireshark</b>
     - [Analyzing PCAPs to find relevant data that prove indicators of compromise (IOCs)](https://github.com/Mwajiduddin/Analyzing-PCAPs-to-find-relevant-info-and-possible-IOCs-in-Wireshark-)
