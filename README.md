@@ -3,7 +3,7 @@
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 - <b>Autopsy</b>
-    - [Analyzing a full disk image of suspect's computer to extract relevant data](https://github.com/Mwajiduddin/Real-world-example-of-SQL-data-analysis)
+    - [Analyzing a full disk image of suspect's computer to extract useful data for an investigation](https://github.com/Mwajiduddin/Real-world-example-of-SQL-data-analysis)
   
 - <b>Splunk</b>
     - [Conducting queries within Splunk to identify evidence of indicators of compromise (IOCs)](https://github.com/Mwajiduddin/Conducting-queries-in-Splunk-to-identify-evidence-of-Indicators-of-Compromise-IOCs-.)
