@@ -10,6 +10,7 @@
 
 - <b>Wireshark</b>
     - [Analyzing pre-captured PCAPs to find relevant data that prove indicators of compromise (IOCs)](https://github.com/Mwajiduddin/Analyzing-PCAPs-to-find-relevant-info-and-possible-IOCs-in-Wireshark-)
+    - [Observing network traffic between two virtual machines in Azure using Wireshark](https://github.com/Mwajiduddin/Observing-network-traffic-between-two-virtual-machines-in-Azure-using-Wireshark)
   
 - <b>SQL</b>
   - [Real-world example of SQL data analysis](https://github.com/Mwajiduddin/Real-world-example-of-SQL-data-analysis)
