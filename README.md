@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
+- <b>TryHackMe</b>
+    - [Triaging and analyzing incoming alerts and ascertaining if they're true positive or false positive](https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/tree/main)
+
 - <b>Autopsy</b>
     - [Analyzing a disk image of suspect's computer to extract important data](https://github.com/Mwajiduddin/Analyzing-disk-image-of-suspect-s-computer-to-extract-data-that-would-be-useful-in-an-investigation)
   
